@@ -1,0 +1,14 @@
+# build output
+build/
+dist/
+*.zip
+*.exe
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
